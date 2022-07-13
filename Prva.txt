@@ -1,3 +1,1 @@
-Ovo je moja prva linija
-
-Ovo je jos jedna linija
+Ovo ce biti mergano u master branch
