@@ -1,1 +1,4 @@
 Ovo ce biti mergano u master branch
+
+
+Ovo je izmjena za pull request
